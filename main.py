@@ -90,8 +90,8 @@ while(True):
         from department import *
         while(True):
             print("\n  1.Create a department")
-            print("  2.View all betches in a department")
-            print("  3.View average performance of all betches in a department")
+            print("  2.View all batches in a department")
+            print("  3.View average performance of all batches in a department")
             print("  4.View line plot of department statistics")
             print("  0.Return to main menu")
             y = int(input("Enter your choice: "))
